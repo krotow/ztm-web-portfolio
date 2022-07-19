@@ -1,0 +1,3 @@
+name	email	subject	message
+Potato Head	potato@head.test	Test message	Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Someone Joe	someone.joe@gmail.com	Greeting	Hello, everybody!
